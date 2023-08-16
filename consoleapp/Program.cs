@@ -3,7 +3,7 @@
 private static void Main(string[] args) 
   {
  string hoTen = "NGUYEN VAN A" ;
-int tuoi = 18 ;
-Console.WriteLine("Sinh vien {0} - {1} tuoi",hoTen,tuoi);
+ const int namLamviec = 8; 
+Console.WriteLine("Sinh vien {0} - {1} nam kinh nghiem",hoTen,namLamviec);
   }
 }
