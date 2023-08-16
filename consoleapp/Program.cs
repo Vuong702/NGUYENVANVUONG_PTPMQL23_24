@@ -2,10 +2,11 @@
 {
 private static void Main(string[] args) 
   {
- string str = "123";
- int ketQua;
- bool kiemTra = false;
- kiemTra = int.TryParse(str,out(ketQua));
- System.Console.WriteLine("ket Qua = " + ketQua);
+ int a,b;
+ System.Console.Write(" a = ");
+ a = Convert.ToInt32(Console.ReadLine());
+ System.Console.Write(" b = ");
+b = Convert.ToInt32(Console.ReadLine());
+System.Console.WriteLine("{0} + 1 = 2",a,b,a+b);
   }
 }
