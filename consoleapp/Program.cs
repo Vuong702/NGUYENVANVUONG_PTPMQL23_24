@@ -2,10 +2,11 @@
 {
 private static void Main(string[] args) 
   {
- for(int i = 0; i < 10; i++)
- {
-  System.Console.WriteLine("vong lap thu {0}",i);
- }
-   
+int a = 1 ;
+do
+{
+  System.Console.WriteLine("vong lap thu {0}",a);
+  a++;
+}while(a < 10);
   }
 }
