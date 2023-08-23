@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\PTPMQL 23 24\TESTAPP\bin\Debug\net7.0\TESTAPP.exe
+C:\Users\Admin\Desktop\PTPMQL 23 24\TESTAPP\bin\Debug\net7.0\TESTAPP.deps.json
+C:\Users\Admin\Desktop\PTPMQL 23 24\TESTAPP\bin\Debug\net7.0\TESTAPP.runtimeconfig.json
+C:\Users\Admin\Desktop\PTPMQL 23 24\TESTAPP\bin\Debug\net7.0\TESTAPP.dll
+C:\Users\Admin\Desktop\PTPMQL 23 24\TESTAPP\bin\Debug\net7.0\TESTAPP.pdb
+C:\Users\Admin\Desktop\PTPMQL 23 24\TESTAPP\obj\Debug\net7.0\TESTAPP.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\PTPMQL 23 24\TESTAPP\obj\Debug\net7.0\TESTAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\PTPMQL 23 24\TESTAPP\obj\Debug\net7.0\TESTAPP.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\PTPMQL 23 24\TESTAPP\obj\Debug\net7.0\TESTAPP.AssemblyInfo.cs
+C:\Users\Admin\Desktop\PTPMQL 23 24\TESTAPP\obj\Debug\net7.0\TESTAPP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\PTPMQL 23 24\TESTAPP\obj\Debug\net7.0\TESTAPP.dll
+C:\Users\Admin\Desktop\PTPMQL 23 24\TESTAPP\obj\Debug\net7.0\refint\TESTAPP.dll
+C:\Users\Admin\Desktop\PTPMQL 23 24\TESTAPP\obj\Debug\net7.0\TESTAPP.pdb
+C:\Users\Admin\Desktop\PTPMQL 23 24\TESTAPP\obj\Debug\net7.0\TESTAPP.genruntimeconfig.cache
+C:\Users\Admin\Desktop\PTPMQL 23 24\TESTAPP\obj\Debug\net7.0\ref\TESTAPP.dll
