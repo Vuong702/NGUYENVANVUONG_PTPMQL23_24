@@ -1,12 +1,11 @@
-namespace TESTAPP.Models
-{
+using System.Security.Cryptography.X509Certificates;
+
+namespace TESTAPP.Models;
+
     public class Test
     {
-    Test ten = new Test ();
-    Test TUOI = new Test ();
-    Test LOP = new Test ();
-    Test HO = new Test ();
-    Test NGAY= new Test ();
-        
+        public string Fullname { get;set; }
+        PU { get;set; }
+     
     }
 }
