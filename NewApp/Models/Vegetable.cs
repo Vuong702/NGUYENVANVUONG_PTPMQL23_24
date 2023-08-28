@@ -16,7 +16,7 @@ namespace NewApp.Models
         //Ke thua class Fruit
         base.Display();
         //Nhap thong tin Vegetable code
-        System.Console.Write("Nguon nhap: {0}", Nguon);
+        System.Console.Write("Nguon nhap: {0}", Nguon) ;
     }
     }
 }
